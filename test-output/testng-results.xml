@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-17T17:08:31Z" name="Single" finished-at="2022-11-17T17:08:52Z" duration-ms="20762">
+    <groups>
+    </groups>
+    <test started-at="2022-11-17T17:08:31Z" name="SingleTest" finished-at="2022-11-17T17:08:52Z" duration-ms="20762">
+      <class name="TestCases.BaseTest">
+        <test-method is-config="true" signature="tearUP()[pri:0, instance:TestCases.BaseTest@bccb269]" started-at="2022-11-17T17:08:31Z" name="tearUP" finished-at="2022-11-17T17:08:41Z" duration-ms="9425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUP -->
+        <test-method signature="VerifyUserNavigatesToHomePageByDefault()[pri:1, instance:TestCases.BaseTest@bccb269]" started-at="2022-11-17T17:08:41Z" name="VerifyUserNavigatesToHomePageByDefault" finished-at="2022-11-17T17:08:41Z" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserNavigatesToHomePageByDefault -->
+        <test-method signature="selectMobileOnHomePage()[pri:2, instance:TestCases.BaseTest@bccb269]" started-at="2022-11-17T17:08:41Z" name="selectMobileOnHomePage" finished-at="2022-11-17T17:08:45Z" duration-ms="3224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMobileOnHomePage -->
+        <test-method signature="addProductIntoCart()[pri:3, instance:TestCases.BaseTest@bccb269]" started-at="2022-11-17T17:08:45Z" name="addProductIntoCart" finished-at="2022-11-17T17:08:48Z" duration-ms="3185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductIntoCart -->
+        <test-method signature="VerifyUserPlaceOrderSuccessfully()[pri:4, instance:TestCases.BaseTest@bccb269]" started-at="2022-11-17T17:08:48Z" name="VerifyUserPlaceOrderSuccessfully" finished-at="2022-11-17T17:08:52Z" duration-ms="4458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserPlaceOrderSuccessfully -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.BaseTest@bccb269]" started-at="2022-11-17T17:08:52Z" name="tearDown" finished-at="2022-11-17T17:08:52Z" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.BaseTest -->
+    </test> <!-- SingleTest -->
+  </suite> <!-- Single -->
+</testng-results>
